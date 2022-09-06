@@ -1,5 +1,4 @@
 import storage from './storage.js';
-// import throttle from 'lodash.throttle';
 const throttle = require('lodash.throttle');
 
 const formRef = document.querySelector('.feedback-form');
